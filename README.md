@@ -24,4 +24,4 @@ Program si sdílejte, jak chcete.
 
 <a href="https://github.com/jiwopene/uvozovky/raw/master/instalace.exe">Stáhnout</a>
    
-![Děkuji, Vydry vysrané i nevysrané](https://pixabay.com/en/photos/download/otter-365370_1920.jpg)
+![Děkuji, Vydry vysrané i nevysrané](vydra.jpg)
