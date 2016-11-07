@@ -13,7 +13,7 @@ Ale o tyto:
 
 --
 
-Autorem programu je <a href="https://www.facebook.com/jiri.wolker.5"Jiří Wolker</a>.
+Autorem programu je <a href="https://www.facebook.com/jiri.wolker.5">Jiří Wolker</a>.
 Program je vytvořen (nejen) pro FB skupinu <a href="https://www.facebook.com/profile.php?id=224866121012390">CHUDÁK ČEŠTINA</a>.
 
 --
@@ -23,5 +23,5 @@ Program si sdílejte, jak chcete.
 --
 
 <a href="https://github.com/jiwopene/uvozovky/raw/master/instalace.exe">Stáhnout</a>
-
-<img src="https://pixabay.com/en/photos/download/otter-365370_1920.jpg" alt="Děkuji, Vydry vysrané i nevysrané" />
+   
+![Děkuji, Vydry vysrané i nevysrané](https://pixabay.com/en/photos/download/otter-365370_1920.jpg)
