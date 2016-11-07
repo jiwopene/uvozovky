@@ -1,0 +1,8 @@
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\bin\Release\Uvozovky.exe.config
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\bin\Release\Uvozovky.exe
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\bin\Release\Uvozovky.pdb
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\obj\Release\Uvozovky.Form1.resources
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\obj\Release\Uvozovky.Properties.Resources.resources
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\obj\Release\Uvozovky.csproj.GenerateResource.Cache
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\obj\Release\Uvozovky.exe
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\obj\Release\Uvozovky.pdb

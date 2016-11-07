@@ -1,0 +1,9 @@
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\bin\Debug\Uvozovky.exe.config
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\bin\Debug\Uvozovky.exe
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\bin\Debug\Uvozovky.pdb
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\obj\Debug\Uvozovky.csprojResolveAssemblyReference.cache
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\obj\Debug\Uvozovky.Form1.resources
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\obj\Debug\Uvozovky.Properties.Resources.resources
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\obj\Debug\Uvozovky.csproj.GenerateResource.Cache
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\obj\Debug\Uvozovky.exe
+C:\Users\Jiří\Visual Studio 2015\Projects\Uvozovky\Uvozovky\obj\Debug\Uvozovky.pdb
